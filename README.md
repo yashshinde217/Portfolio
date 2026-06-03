@@ -6,7 +6,6 @@ A personal portfolio website built with **React**, **Three.js**, and **Tailwind 
 
 ![Portfolio Preview](./src/assets/images/hero.jpg)
 
-> Live demo → deployed on [Vercel](https://vercel.com)
 
 ## Sections
 
