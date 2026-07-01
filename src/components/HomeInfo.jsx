@@ -7,10 +7,10 @@ const HomeInfo = ({ currentStage }) => {
     return (
       <h1 className='sm:text-xl sm:leading-snug text-center neo-brutalism-blue py-4 px-8 text-white mx-5'>
         Hi, I'm
-        <span className='font-semibold mx-2 text-white'>[Your Name]</span>
+        <span className='font-semibold mx-2 text-white'>Yash Shinde</span>
         👋
         <br />
-        A [Your Role] from [Your Country]
+        A Full Stack Developer from India
       </h1>
     );
 
@@ -18,7 +18,7 @@ const HomeInfo = ({ currentStage }) => {
     return (
       <div className='info-box'>
         <p className='font-medium sm:text-xl text-center'>
-          [Brief line about your experience] <br /> and picked up many skills along the way
+          I'm a fresher diving deep into development <br /> and picking up many skills along the way
         </p>
 
         <Link to='/about' className='neo-brutalism-white neo-btn'>
@@ -33,7 +33,7 @@ const HomeInfo = ({ currentStage }) => {
     return (
       <div className='info-box'>
         <p className='font-medium text-center sm:text-xl'>
-          [Brief line about your projects]. <br /> Curious about the impact?
+          I've built major projects in MERN stack <br /> and some in C++ and Python too. Curious?
         </p>
 
         <Link to='/projects' className='neo-brutalism-white neo-btn'>
